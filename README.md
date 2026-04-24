@@ -26,9 +26,9 @@ pip install -r requirements.txt
 ## Usage
 
 1. Launch CATIA and ensure it is open and ready.
-2. Run the script:
+2. Run the script or exe file(on Windows only):
    ```bash
-   python "Auto CATIA drawing pdf or dwg saver.py"
+   python "CATDrawing Batch Export.py"
    ```
 3. Click **Browse** and select the folder containing your `.CATDrawing` files.
 4. Choose an export format: **PDF** or **DXF**.
