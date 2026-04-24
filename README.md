@@ -50,7 +50,3 @@ Auto CATDrawing-to-PDFDXF Converter/
 ├── README.md
 └── CATfile/                                 # Sample/test CATDrawing files
 ```
-
-## License
-
-MIT
